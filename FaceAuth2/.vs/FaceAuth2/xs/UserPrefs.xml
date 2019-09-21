@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{1C63262F-1DF6-F2D6-3EE0-D22AD6032C77}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FBDatabase.cs">
+    <Files>
+      <File FileName="Assets/AuthUI.cs" Line="28" Column="56" />
+      <File FileName="Assets/BDScript.cs" Line="49" Column="75" />
+      <File FileName="Assets/AuthManager.cs" Line="212" Column="14" />
+      <File FileName="Assets/FBAuth.cs" Line="8" Column="3" />
+      <File FileName="Assets/FBLoginTest.cs" Line="16" Column="27" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets/MovePlayer.cs" Line="24" Column="25" />
+      <File FileName="Assets/ScrollScript.cs" Line="40" Column="90" />
+      <File FileName="Assets/Escena.cs" Line="29" Column="33" />
+      <File FileName="Assets/Script/ClickTo.cs" Line="24" Column="1" />
+      <File FileName="Assets/CubesDestroy/Explosion.cs" Line="28" Column="6" />
+      <File FileName="Assets/FBDatabase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FaceAuth2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CubesDestroy" expanded="True" />
+              <Node name="Script" expanded="True" />
+              <Node name="FBDatabase.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
